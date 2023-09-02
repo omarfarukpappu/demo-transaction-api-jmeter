@@ -1,6 +1,6 @@
 # demo-transaction-api-jmeter
 ## About this project
-### demo-transaction-api-jmeter Test.D-money is demo financial related project.In the project i have automate the d-money api using jmeter.it's Perform load test in server..In the project i have automate the using Jmeter.Here i have covered folowing tasks as create a new Thread group,Http request,Result tree,create a new user,login,withdraw and payment .
+### demo-transaction-api-jmeter Test. D-money is demo financial related project. In the project i have automate the d-money api using jmeter. it's Perform load test in server. In the project i have automate the using Jmeter. Here i have covered folowing tasks as create a new Thread group,Http request,Result tree,create a new user,login,withdraw and payment.
 ## Tools and technology used:
 #### Jmeter
 ## prerequisites
